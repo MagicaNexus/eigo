@@ -1,5 +1,11 @@
 # @eigo/eigo
 
+## 0.1.2
+
+### Patch Changes
+
+- 99649bd: Adding particles as dist
+
 ## 0.1.1
 
 ### Patch Changes
