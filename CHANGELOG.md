@@ -1,5 +1,11 @@
 # @eigo/eigo
 
+## 0.1.3
+
+### Patch Changes
+
+- 12f7c13: Add split Lines
+
 ## 0.1.2
 
 ### Patch Changes
